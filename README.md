@@ -61,12 +61,18 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".net" width="40" height="40"/> </a>
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" alt="playwrite" width="40" height="40"/> </a>
 # 📊GitHub Stats :
-<!-- ![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200) -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=dracula&hide_border=true)](https://github.com/CodeWhiteWeb?tab=repositories) -->
-[![Code's github activity graph](https://githubraw.com/CodeWhiteWeb/CodeWhiteWeb/output/github-contribution-grid-snake.svg)](https://skyline.github.com/CodeWhiteWeb)
+</p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SrNanu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="SrNanu" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrNanu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+</p><p>
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=SrNanu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="SrNanu" 
+    bg_color=#808080/>
+      
 
 ## 🏆GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5) <!--<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a><br>-->
+[![](https://github-profile-trophy.vercel.app/?username=SrNanu&them=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5) <!--<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a><br>-->
 <!--![trophy](https://metrics.lecoq.io/CodeWhiteWeb?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)-->
 
 ---
