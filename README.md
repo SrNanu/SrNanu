@@ -24,12 +24,12 @@
 
 
 <h3>Connect with me:</h3>
-<a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="codewhiteweb" height="30" width="40" /></a>	
-<a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="codewhiteweb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/santino-cataldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>	
+<a href="https://www.instagram.com/santiicataldi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://t.me/Santinocataldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="https://wa.me/+543465537150" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sr_nanu" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coderforce" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="27" width="35" /></a>
+<a href="mailto:cataldisantinonanu@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="27" width="35" /></a>
 
 
 
