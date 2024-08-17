@@ -60,6 +60,6 @@
 ![Profile_Views](https://komarev.com/ghpvc/?username=SrNanu&style=for-the-badge&label=Visitors+Count&color=brightgreen)
 
 
-![](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&reversal=false&fontAlignY=27&fontSize=50&descSize=15&descAlignY=45&descAlign=52&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=12&reversal=false&fontAlignY=27&fontSize=50&descSize=15&descAlignY=45&descAlign=52&section=footer)
 
 </div>
