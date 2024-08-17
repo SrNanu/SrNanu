@@ -24,36 +24,15 @@
 
 
 <h3>Connect with me:</h3>
-<p>
-<a href="https://codepen.io/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://dev.to/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://twitter.com/codewhiteweb1" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewhiteweb1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://codesandbox.com/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://instagram.com/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://www.behance.net/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://hashnode.com/@codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@codewhiteweb" height="30" width="40" /></a>
-<a href="https://medium.com/@codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codewhiteweb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codewhiteweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="codewhiteweb" height="30" width="40" /></a>
-</p>
-<br>
-<p>Connect with me on
-<br>	
 <a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="codewhiteweb" height="30" width="40" /></a>	
 <a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="codewhiteweb" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="codewhiteweb" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="codewhiteweb" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sr_nanu" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coderforce" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="27" width="35" /></a>
 
 
 
-<a href="https://codewhiteweb.thedev.id"><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Portfolio&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https://codewhiteweb.thedev.id"></a> <a href="https://codewhiteweb.thdev.id/donate/"><img src="https://img.shields.io/badge/TIP me-Donate%20me-&?style=for-the-badge&logo=bitcoin"></a>
-
-### Donate to Charity, thats enough to bring smile on my face :)
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -75,43 +54,12 @@
 <!--![trophy](https://metrics.lecoq.io/CodeWhiteWeb?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)-->
 
 ---
-  
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [AI: The Next Big Bang](https://codewhiteweb.medium.com/ai-the-next-big-bang-13eefd188d32?source=rss-6d324adfb19d------2)
-- [Best Google Fonts for your website](https://codewhiteweb.medium.com/best-google-fonts-for-your-website-9356267f51a4?source=rss-6d324adfb19d------2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://dev.to/codewhiteweb)
-
-### My NPM and PIP Packages
-  
-- [chatbot-discord](https://www.npmjs.com/package/chatbot-discord) 
-- [profile-readme-generator](https://www.npmjs.com/package/profile-readme-generator)
-  
-  More Soon...
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-
-### 🎶Spotify List
-  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31nqkd4reaju3zfynugqtqy5vyj4)](https://open.spotify.com/user/31nqkd4reaju3zfynugqtqy5vyj4)
-  
-  
-### Funny Riddles , Test your brain 🤓
-
-[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CodeWhiteWeb/github-readme-riddle)
 
 ---
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](https://forthebadge.com/images/badges/uses-brains.svg)
----
-![Profile_Views](https://komarev.com/ghpvc/?username=CodeWhiteWeb&style=for-the-badge&label=Visitors+Count&color=brightgreen)
-[![wakatime](https://wakatime.com/badge/user/1d2fda96-c074-4c84-a0d5-31efb131faec.svg/?style=for-the-badge)](https://wakatime.com/@1d2fda96-c074-4c84-a0d5-31efb131faec)
+![Profile_Views](https://komarev.com/ghpvc/?username=SrNanu&style=for-the-badge&label=Visitors+Count&color=brightgreen)
 
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&reversal=false&fontAlignY=27&fontSize=50&descSize=15&descAlignY=45&descAlign=52&section=footer)
 
 </div>
