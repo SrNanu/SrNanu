@@ -1,7 +1,6 @@
 <h3 align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12&text=Santino%20Cataldi&textBg=false&fontAlign=50&fontAlignY=49&animation=twinkling&desc=Advanced%20Student%20in%20Information%20Systems%20Engineering&descAlign=53&descAlignY=62)
-
+![](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=Santino%20Cataldi&reversal=false&fontAlignY=27&fontSize=50&descSize=15&desc=Advanced%20student%20in%20Information%20Systems%20Engineering&descAlignY=45&descAlign=52)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
